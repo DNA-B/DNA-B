@@ -35,11 +35,4 @@ Hi 👋 My name is 변성훈
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DNA-B&layout=compact&theme=onedark)  
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dna_b)](https://solved.ac/dna_b)
-
-<br>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/DNA-B/Linux-Lightning_Land" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DNA-B&repo=Linux-Lightning_Land&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/DNA-B/Problem_Solving" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DNA-B&repo=Problem_Solving&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
 </div>
