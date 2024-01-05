@@ -2,12 +2,14 @@
   
 Hi 👋 My name is 변성훈  
 ---------------------
-  
- 🌍  I'm based in Seoul  
- ✉️  You can contact me at [sphz3813@gmail.com](mailto:sphz3813@gmail.com)  
- 🚀  I'm currently working on [Capstone Project](http://github.com/DNA-B/CAPSTONE)  
- 🧠  I'm learning **Java Spring FrameWork**  
- 🤝  I'm open to collaborating on **Web Backend**  
+
+<br>
+
+🌍  I'm based in Seoul  
+✉️  You can contact me at [sphz3813@gmail.com](mailto:sphz3813@gmail.com)  
+🚀  I'm currently working on [Capstone Project](http://github.com/DNA-B/CAPSTONE)  
+🧠  I'm learning **Java Spring FrameWork**  
+🤝  I'm open to collaborating on **Web Backend**  
 
 <br>
 
