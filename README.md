@@ -10,7 +10,7 @@ Hi 👋 My name is 변성훈
 🚀  I'm currently working on [Capstone Project](http://github.com/DNA-B/CAPSTONE)  
 🧠  I'm learning **Java Spring FrameWork**  
 🤝  I'm open to collaborating on **Web Backend**  
-👻  My Problem Solving Note → [BOJ Note](https://aware-bream-339.notion.site/43e542801d514a788bed2a34e9dca4cb?v=46fb4dc3755542769c3ebf656e8ff018&pvs=4)
+👻  My Problem Solving Note → [BOJ Note](https://aware-bream-339.notion.site/2f9ca2452eee4d5783563ae1eb8129d1?v=bb58d9c756e2498c9d2355c069e6b257&pvs=4)
 
 <br>
 
