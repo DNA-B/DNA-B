@@ -9,7 +9,7 @@ Hi 👋 My name is 변성훈
 ✉️  You can contact me at [sphz3813@gmail.com](mailto:sphz3813@gmail.com)  
 🚀  I'm currently working on [overhere](https://github.com/OverHereTeam/backend)  
 🧠  I'm learning **Java Spring Boot**  
-🤝  I'm open to collaborating on **Web Backend**  
+🤝  I'm open to collaborating on **Backend Programmer**  
 👻  My Problem Solving Note → [BOJ Note](https://aware-bream-339.notion.site/2f9ca2452eee4d5783563ae1eb8129d1?v=bb58d9c756e2498c9d2355c069e6b257&pvs=4)
 
 <br>
