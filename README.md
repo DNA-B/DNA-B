@@ -10,7 +10,7 @@ Hi 👋 My name is 변성훈
 🚀  I'm currently working on [overhere](https://github.com/OverHereTeam/backend)  
 🧠  I'm learning **"Java Spring Boot"**  
 🤝  I'm open to collaborating on **"Backend Developer"**  
-👻  My Problem Solving Note → [BOJ Note](https://aware-bream-339.notion.site/2f9ca2452eee4d5783563ae1eb8129d1?v=bb58d9c756e2498c9d2355c069e6b257&pvs=4)
+👻  My Problem Solving Note → [BOJ Note](https://www.notion.so/13679a61126881b7a838c62598684bd9?v=13679a61126881fe93f8000cce1bc57f)
 
 <br>
 
