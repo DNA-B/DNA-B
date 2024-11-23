@@ -17,22 +17,23 @@ Hi 👋 My name is 변성훈
 ### Skills
 
 <p align="center">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+    <img src="https://img.shields.io/badge/FrameWork-%23121011?style=for-the-badge">
+    <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <br>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="36" height="36"/></a>
+    <img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Java-FF7900?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <br>
+    <img src="https://img.shields.io/badge/DBMS-%23121011?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"><img src="https://img.shields.io/badge/mongo db-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <br>
+    <img src="https://img.shields.io/badge/Cloud-%23121011?style=for-the-badge">
+    <img src="https://img.shields.io/badge/google cloud-4285F4?style=for-the-badge&logo=googlecloudstorage&logoColor=white">
 </p>
 
 <br>
 
 ### Badges
 
-![DNA-B's GitHub stats](https://github-readme-stats.vercel.app/api?username=DNA-B&show_icons=true&theme=onedark)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DNA-B&layout=compact&theme=onedark)  
-  
+![DNA-B's GitHub stats](https://github-readme-stats.vercel.app/api?username=DNA-B&show_icons=true&theme=moltack&border_radius=15.0&line_height=28) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DNA-B&layout=donut&theme=moltack&border_radius=15.0)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dna_b)](https://solved.ac/dna_b)
 </div>
