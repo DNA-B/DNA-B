@@ -27,7 +27,7 @@ Hi 👋 My name is 변성훈
     <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"><img src="https://img.shields.io/badge/mongo db-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <br>
     <img src="https://img.shields.io/badge/Cloud-%23121011?style=for-the-badge">
-    <img src="https://img.shields.io/badge/google cloud-4285F4?style=for-the-badge&logo=googlecloudstorage&logoColor=white">
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
 </p>
 
 <br>
