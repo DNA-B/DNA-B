@@ -7,7 +7,7 @@ Hi 👋 My name is 변성훈
 
 🌍  I'm based in Seoul  
 ✉️  You can contact me at [sphz3813@gmail.com](mailto:sphz3813@gmail.com)  
-🚀  I'm currently working on NONE  
+🚀  I'm currently working on [Food-Guard](https://github.com/DNA-B/Food-Guard)  
 🧠  I'm learning **"Java Spring Boot"**  
 🤝  I'm open to collaborating on **"Backend Developer"**  
 👻  My Problem Solving Note → [BOJ Note](https://www.notion.so/13679a61126881b7a838c62598684bd9?v=13679a61126881fe93f8000cce1bc57f)
