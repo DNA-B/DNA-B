@@ -35,5 +35,4 @@ Hi 👋 My name is 변성훈
 ### Badges
 
 ![DNA-B's GitHub stats](https://github-readme-stats.vercel.app/api?username=DNA-B&show_icons=true&theme=moltack&border_radius=15.0&line_height=28) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DNA-B&layout=donut&theme=moltack&border_radius=15.0)  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dna_b)](https://solved.ac/dna_b)
 </div>
