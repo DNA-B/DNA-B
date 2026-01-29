@@ -14,7 +14,7 @@ Hi 👋 My name is 변성훈
 
 <br>
 
-### Skills
+### 🛠️ Skills
 
 <p align="center">
     <img src="https://img.shields.io/badge/FrameWork-%23121011?style=for-the-badge">
@@ -30,9 +30,9 @@ Hi 👋 My name is 변성훈
     <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
 </p>
 
-<br>
+<br><hr>
 
-### Badges
+
 
 ![DNA-B's GitHub stats](https://github-readme-stats.vercel.app/api?username=DNA-B&show_icons=true&theme=moltack&border_radius=15.0&line_height=28) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DNA-B&layout=donut&theme=moltack&border_radius=15.0)  
 </div>
