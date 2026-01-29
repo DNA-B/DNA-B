@@ -17,13 +17,16 @@ Hi 👋 My name is 변성훈
 ### 🛠️ Skills
 
 <p align="center">
+    <img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Java-FF7900?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+  <br>
     <img src="https://img.shields.io/badge/FrameWork-%23121011?style=for-the-badge">
     <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <br>
-    <img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Java-FF7900?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Library-%23121011?style=for-the-badge">
+    <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white">
   <br>
-    <img src="https://img.shields.io/badge/DBMS-%23121011?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Database-%23121011?style=for-the-badge">
     <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"><img src="https://img.shields.io/badge/mongo db-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <br>
     <img src="https://img.shields.io/badge/Cloud-%23121011?style=for-the-badge">
